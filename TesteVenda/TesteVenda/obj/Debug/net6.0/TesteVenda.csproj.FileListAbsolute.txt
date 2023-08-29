@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\bin\Debug\net6.0\TesteVenda.exe
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\bin\Debug\net6.0\TesteVenda.deps.json
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\bin\Debug\net6.0\TesteVenda.runtimeconfig.json
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\bin\Debug\net6.0\TesteVenda.dll
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\bin\Debug\net6.0\TesteVenda.pdb
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.dll
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\refint\TesteVenda.dll
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.pdb
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\TesteVenda.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\GitHub\CSharp\TesteVenda\TesteVenda\obj\Debug\net6.0\ref\TesteVenda.dll
