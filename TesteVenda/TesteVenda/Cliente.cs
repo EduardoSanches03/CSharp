@@ -8,9 +8,9 @@ namespace TesteVenda
 {
     internal class Cliente
     {
-        private String _nome;
-        private String _idade;
-        private String _cpf;
+        private string _nome;
+        private string _idade;
+        private string _cpf;
 
 
         public String Nome
