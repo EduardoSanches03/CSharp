@@ -23,16 +23,13 @@ namespace TesteVenda
             switch (opcao)
             {
                 case "1":
-                    VendaController.RealizarVenda(listaClientes,listaProdutos);
+                    VendaController.RealizarVenda();
                     break;
                 case "2":
-                    ClienteController.ConsultarCliente();
+                    VendaController.ConsultarPedidos();
                     break;
                 case "3":
-                    ClienteController.RemoverCadastro();
-                    break;
-                case "4":
-                    ClienteController.AlterarCadastro();
+                    VendaController.CancelarPedido();
                     break;
                 case "5":
                     Menu.TelaMenu();

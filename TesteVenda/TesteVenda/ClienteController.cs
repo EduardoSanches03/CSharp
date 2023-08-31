@@ -30,9 +30,10 @@ namespace TesteVenda
         public static void ConsultarCliente()
         {
             Console.WriteLine("Lista de Clientes: ");
+            Console.WriteLine("");
             foreach (var cliente in ClienteController.listaClientes)
             {
-                Console.WriteLine("Nome: " + cliente.Nome + " Idade: " + cliente.Idade + " CPF: " + cliente.Cpf);
+                Console.WriteLine("Nome: " + cliente.Nome + " | Idade: " + cliente.Idade + " | CPF: " + cliente.Cpf);
                 Console.WriteLine("----------------------------------------------------");
             }
 
@@ -78,7 +79,7 @@ namespace TesteVenda
                 Console.WriteLine("----------------------------------------------------");
                 Console.WriteLine($"Cliente {clienteExistente.Nome} atualizado com sucesso!!");
                 Console.WriteLine("----------------------------------------------------");
-            }
+            }    
             else
             {
                 Console.WriteLine("-----------------------");

@@ -12,12 +12,18 @@ namespace TesteVenda
         {
             Random random = new Random();
 
-            int numeroAleatorio = random.Next(1000);
+            const string caracteresPermitidos = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            int tamanhoMaximo = 6;
 
-            Guid guid = Guid.NewGuid();
-            string idAleatorio = guid.ToString("N");
+            char[] idAleatorio = new char[tamanhoMaximo];
 
-            return $"{numeroAleatorio:D6}-{idAleatorio}";
+            for (int i = 0; i < tamanhoMaximo; i++)
+            {
+                idAleatorio[i] = caracteresPermitidos[random.Next(caracteresPermitidos.Length)];
+            }
+
+            return new string(idAleatorio);
         }
+
     }
 }

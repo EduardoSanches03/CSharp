@@ -28,9 +28,10 @@ namespace TesteVenda
         public static void ConsultarProduto()
         {
             Console.WriteLine("Lista de Produtos: ");
+            Console.WriteLine("");
             foreach (var produto in listaProdutos)
             {
-                Console.WriteLine("Código: " + produto.Codigo + " Nome: " + produto.Nome);
+                Console.WriteLine("Código: " + produto.Codigo + " | Nome: " + produto.Nome + " | Valor: R$" + produto.Valor);
                 Console.WriteLine("----------------------------------------------------");
             }
             
@@ -70,6 +71,8 @@ namespace TesteVenda
                 {
                     Console.WriteLine("Informe o nome do produto: ");
                     produtoExistente.Nome = Console.ReadLine();
+                    Console.WriteLine("Informe o valor do produto1; ");
+                    produtoExistente.Valor = double.Parse(Console.ReadLine());
 
                     Console.WriteLine("----------------------------------------------------");
                     Console.WriteLine($"Produto {produtoExistente.Nome} atualizado com sucesso!!");
