@@ -9,7 +9,7 @@ namespace TesteVenda
     internal class Cliente
     {
         private string _nome;
-        private string _idade;
+        private int _idade;
         private string _cpf;
 
 
@@ -18,7 +18,7 @@ namespace TesteVenda
             get => _nome; set => _nome = value;
         }
 
-        public String Idade
+        public int Idade
         {
             get => _idade; set => _idade = value;
         }
