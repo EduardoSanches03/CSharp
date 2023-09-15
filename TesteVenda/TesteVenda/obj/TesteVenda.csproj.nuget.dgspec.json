@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj": {}
+    "C:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj": {
+    "C:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj",
         "projectName": "TesteVenda",
-        "projectPath": "c:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\TesteVenda.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\CSharp\\TesteVenda\\TesteVenda\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
